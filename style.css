@@ -1,0 +1,41 @@
+body{
+	background-color: #fff3cd;
+}
+
+hr{
+	border-style: none;
+	border-top-style: dotted;
+	border-color: #0779e4;
+	border-width: 5px;
+	background-color: none;
+}
+
+h1{
+	font-family: sans-serif;
+}
+
+h2{
+	font-family: sans-serif;
+}
+
+.class1{
+		background-color: #a8e6cf;
+		font-family: cursive; 
+		font-size: 16px;
+		color: #0f4c81;
+
+}
+
+.class2{
+	background-color: #f6eec7;
+	font-family: monospace;
+	font-size: 16px;
+	color: #4f3961;
+}
+
+
+#header{
+  	color: #4a47a3;
+  	font-family: Impact, fantasy;
+  	font-size: 36px;
+}
